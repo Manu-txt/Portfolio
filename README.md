@@ -10,7 +10,7 @@ I’m passionate about embedded systems, FPGA design, and space technology. My j
 - **🔋 Long Beach SharkSat | CubeSat Power Team**  
   Working on component analysis, trade studies, and C-based data visualization for power optimization.
 
-- **📟 Microwave Timer w/ Sensor Integration**  
+- **📟 Microwave Timer w/ Temperature Sensor Integration**  
   Designed a buzzer and I2C temperature sensor using Verilog and FSMs on a Nexys A7-100T FPGA. Displays real-time data on a 7-segment display with external hardware integration.
 
 ## 🛠️ Skills & Tools
