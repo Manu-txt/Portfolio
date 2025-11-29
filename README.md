@@ -1,33 +1,55 @@
-# 👋 Hi, I'm Emmanuel Velazquez
+# Emmanuel Velazquez
 
-Welcome to my GitHub!
+Welcome to my GitHub portfolio! I'm a Computer Engineering student at California State University, Long Beach (Graduating May 2026), with a passion for embedded systems, hardware design, and space technology.
 
-I'm a Computer Engineering student at California State University, Long Beach, graduating in May 2026. With a strong academic background, including Dean’s List honors, and dual associate degrees from Fullerton College, I bring a solid foundation in both hardware and software.
-
-I’m passionate about embedded systems, FPGA design, and space technology. My journey blends classroom theory with hands-on experience, from CubeSat development to Verilog hardware design.
-
-## 🚀 Current Projects
-- **🔋 Long Beach SharkSat | CubeSat Power Team**  
-  Working on component analysis, trade studies, and C-based data visualization for power optimization.
-
-- **📟 Microwave Timer w/ Temperature Sensor Integration**  
-  Designed a buzzer and I2C temperature sensor using Verilog and FSMs on a Nexys A7-100T FPGA. Displays real-time data on a 7-segment display with external hardware integration.
-
-## 🛠️ Skills & Tools
-- **Languages:** Verilog, C, Assembly
-- **Hardware Platforms:** Zybo Z7, Nexys A7-100T, TM4C123 (Keil IDE)
-- **Concepts:** FSMs, I2C/SPI, Embedded C, FPGA Design, Data Visualization
-- **Soft Skills:** Team collaboration, technical documentation, bilingual communication (English & Spanish)
-
-## 🧰 Work Experience
-- **Fermin’s Landscaping** – Over a decade of client-focused service, equipment handling, and bilingual coordination.
-- **FedEx Ground** – Package handler with a focus on safety, logistics, and operational efficiency.
-
-## 📫 Let’s Connect!
-- 📍 La Habra, California  
-- 📧 e.velazquez2442@yahoo.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/emmanuel-velazquez-83241123a) *(replace with your actual URL)*  
+- 📧 **Email:** [e.velazquez2442@yahoo.com](mailto:e.velazquez2442@yahoo.com)
+- 💼 **LinkedIn:** [linkedin.com/in/emmanuelvelazquez](https://www.linkedin.com/in/emmanuelvelazquez)
+- 🌐 **Personal Website:** [emmanuelvelazquez.netlify.app](https://emmanuelvelazquez.netlify.app)
 
 ---
 
-Thanks for visiting my GitHub! Feel free to explore my repositories and follow my journey into engineering, embedded systems, and space tech.
+## 🚀 Technical Experience
+
+### Power Electronics Engineer | SharkSat | Long Beach, CA (2023–2024)
+- Performed technical and analytical contributions to trade studies and proposal materials.
+- Conducted system-level analyses and participated in weekly design reviews for subsystem integration.
+- Researched power distribution systems to provide clean voltage and current for satellite components.
+
+### Executive Assistant & Landscaper | Fermins Landscaping | Long Beach, CA (2014–Present)
+- Built a C program for client registration, service frequency, addresses, and payments; exported to Excel for tracking and reporting.
+- Managed bilingual client communications (English/Spanish), sustaining long-term relationships via SMS and in-person interactions.
+- Managed bank accounts, reconciled payments, monitored receivables, ensuring timely disbursements.
+
+---
+
+## 🔧 Engineering Projects
+
+### Embedded Systems Engineer (Undergraduate) | CSULB (Aug 2024–Sept 2024)
+- Implemented an embedded piano on an ARM Cortex-M4 (TM4C123GXL) using an R-2R ladder DAC and GPIO push-buttons.
+- Applied software debouncing and basic digital filtering for stable input and audio output.
+- Debugged using a DMM and logic analyzer; extended firmware to support octave changes.
+
+### Verification Engineer (Undergraduate) | CSULB (Aug 2024–Sept 2024)
+- Designed and verified a microwave interface on a Nexys A7 FPGA, integrating an I²C temperature sensor, 7-segment display, and external buzzer.
+- Created and executed testbenches and simulations to validate system behavior and timing accuracy.
+- Collaborated with team members to integrate project components and resolve hardware and software debugging issues.
+
+---
+
+## 💻 Skills
+
+| Category                        | Skills                                                                                             |
+| ------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Languages**                   | C/C++, Python, Assembly, JavaScript, MATLAB, HTML, CSS                                             |
+| **Hardware Description Languages (HDL)** | Verilog, Vivado                                                                                    |
+| **Microcontrollers/Architectures** | ARM-Cortex, STM32, ESP32, MIPS, FPGA, System on Chip (SoC) Design                                   |
+| **Protocols & Interfaces**      | I2C, UART, SPI, Bluetooth, Wi-Fi, SSI                                                              |
+| **Design/Testing**              | Bare Metal Firmware, Driver Design, ADC, DAC, Circuit Design (LTSpice), PLL, Soldering, Debuggers/Oscilloscopes |
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Science in Computer Engineering** – California State University, Long Beach (Expected Graduation: May 2026)
+- **Associate of Arts in Social Behavior and Self Development** – Fullerton College (May 2023)
+- **Associate of Arts in Science and Mathematics** – Fullerton College (May 2023)
