@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! I'm a Computer Engineering student at California State University, Long Beach (Graduating May 2026), with a passion for embedded systems, hardware design, and space technology.
 
 - 📧 **Email:** [e.velazquez2442@yahoo.com](mailto:e.velazquez2442@yahoo.com)
-- 💼 **LinkedIn:** [linkedin.com/in/emmanuelvelazquez](https://www.linkedin.com/in/emmanuelvelazquez)
+- 💼 **LinkedIn:** [linkedin.com/in/emmanuelvelazquez](www.linkedin.com/in/emmanuel-velazquez-83241123a)
 - 🌐 **Personal Website:** [emmanuelvelazquez.netlify.app](https://emmanuelvelazquez.netlify.app)
 
 ---
